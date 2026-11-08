@@ -109,7 +109,7 @@ me.say_hi()
 
 </td>
 <td valign="middle" width="330">
-<img width="330" src="https://raw.githubusercontent.com/Bekokim/Bekokim/main/assets/wize.jpg" alt="Keep coding, keep winning"/>
+<img width="330" src="https://raw.githubusercontent.com/Bekokim/Bekokim/main/assets/wize-v2.jpg" alt="Keep coding, keep winning"/>
 </td>
 </tr>
 </table>
