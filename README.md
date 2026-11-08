@@ -70,9 +70,11 @@
 <!--                             ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Bekokim/Bekokim/main/assets/wize.jpg" alt="Keep coding, keep winning"/>
-
 ## 💻 About Me / Обо мне
+
+<table>
+<tr>
+<td valign="middle">
 
 ```python
 class BekzatErgeshov:
@@ -105,7 +107,12 @@ me = BekzatErgeshov()
 me.say_hi()
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="330">
+<img width="330" src="https://raw.githubusercontent.com/Bekokim/Bekokim/main/assets/wize.jpg" alt="Keep coding, keep winning"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -230,6 +237,14 @@ me.say_hi()
 
 <br/>
 
+### 🔶 Next Up &nbsp; `Django` `PostgreSQL` `React` — *in planning*
+
+> **EN** — A streaming catalogue for films, series and anime in the spirit of Anwap and Jut.su: search, filtering by genre and year, watchlists and a clean player page.
+>
+> **RU** — Каталог фильмов, сериалов и аниме в духе Anwap и Jut.su: поиск, фильтры по жанру и году, списки «к просмотру» и аккуратная страница плеера.
+
+<br/>
+
 > 💡 **All my repositories are open source** — feel free to read, fork and learn from the code.
 > 💡 **Все мои репозитории открыты** — читай, форкай и учись на коде.
 
@@ -295,6 +310,35 @@ me.say_hi()
 <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bekokim&theme=github_dark" alt="Repos per language" />
 &nbsp;
 <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bekokim&theme=github_dark&utcOffset=6" alt="Productive time" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                             HOBBIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🎯 Beyond Code / Помимо кода
+
+<br/>
+
+| | |
+|:---|:---|
+| 🎬 **Films & Series / Кино** | Serious cinephile — movies, series, K-dramas, anime. Picking one favourite is impossible |
+| 📖 **Manga & Audiobooks / Манга** | I read manga and listen to audiobooks rather than paper ones |
+| 🥊 **Boxing / Бокс** | Trained boxing, love combat sports in general — still training today |
+| 🎧 **Music / Музыка** | Proper music junkie: Kyrgyz (modern & classic), Russian, Kazakh, a bit of English |
+| 🎙️ **Podcasts / Подкасты** | There is always something playing in the background |
+| 😄 **Stand-up / Юмор** | Big stand-up fan — and I tell my own jokes from everyday life |
+| 🍳 **Cooking / Готовка** | I cook well, and I like feeding people |
+| 🗣️ **People / Общение** | Easy to talk to — I genuinely enjoy meeting new people |
+| 🧩 **Competitive Programming** | Still solving problems. It is hard, but I am not quitting |
+| 😴 **Sleep / Сон** | An underrated hobby. I am good at it |
+
+<br/>
 
 </div>
 
