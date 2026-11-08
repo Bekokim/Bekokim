@@ -18,7 +18,7 @@
 <!--                        PHOTO + STATUS PILL                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://github.com/Bekokim.png" width="150" alt="Bekzat Ergeshov"/>
+<img width="100%" src="https://raw.githubusercontent.com/Bekokim/Bekokim/main/assets/hero.jpg" alt="Developer workspace"/>
 
 <br/><br/>
 
@@ -54,16 +54,6 @@
 
 <div align="center">
 
-### 👾 Pac-Man eats my commits / Пакмен ест мои коммиты
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bekokim/Bekokim/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
-
-<br/>
-
 ### 🧱 Tetris on my commits / Тетрис на моих коммитах
 
 <picture>
@@ -79,6 +69,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                             ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/Bekokim/Bekokim/main/assets/wize.jpg" alt="Keep coding, keep winning"/>
 
 ## 💻 About Me / Обо мне
 
@@ -112,6 +104,8 @@ class BekzatErgeshov:
 me = BekzatErgeshov()
 me.say_hi()
 ```
+
+<br clear="right"/>
 
 <br/>
 
@@ -195,6 +189,24 @@ me.say_hi()
 | ➕ **C++** | Basic | `██████████░░░░░░░░░░` **50%** |
 | 🐧 **Linux** | Basic | `████████░░░░░░░░░░░░` **40%** |
 | 🐳 **Docker** | Basic | `████████░░░░░░░░░░░░` **40%** |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      SNAKE CONTRIBUTION GRAPH                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 Snake eats my commits / Змейка ест мои коммиты
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/snake-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/snake-contribution-graph.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Bekokim/Bekokim/output/snake-contribution-graph.svg" width="100%" />
+</picture>
 
 </div>
 
