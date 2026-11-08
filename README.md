@@ -35,10 +35,10 @@
   <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41" />
 </a>&nbsp;
 <a href="mailto:bekotemirov0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" />
 </a>&nbsp;
 <a href="https://www.instagram.com/bekokim_1/">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0D1117" />
 </a>&nbsp;
 <a href="https://github.com/Bekokim">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
