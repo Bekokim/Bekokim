@@ -210,9 +210,9 @@ me.say_hi()
 ### 🐍 Snake eats my commits / Змейка ест мои коммиты
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/snake-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/snake-contribution-graph.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Bekokim/Bekokim/output/snake-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/github-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Bekokim/Bekokim/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -372,6 +372,18 @@ me.say_hi()
 $ echo "Open to internships, open source and interesting problems."
 > Open to internships, open source and interesting problems.
 ```
+
+<br/>
+
+---
+
+<br/>
+
+### 🌑 *"The night is darkest just before the dawn."*
+
+### 🌑 *«Ночь темнее всего прямо перед рассветом»*
+
+<br/>
 
 </div>
 
