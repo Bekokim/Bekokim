@@ -257,24 +257,36 @@ me.say_hi()
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--   OPTIONAL STATS BLOCK — раскомментируй, если захочешь показать     -->
+<!--                          GITHUB STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--
+
 <div align="center">
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats / Статистика
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bekokim&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bekokim&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=12" />
+<br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekokim&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&layout=compact&langs_count=8&border_radius=12" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=Bekokim&hide_border=true&background=0D1117&border=30363D&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=00FF41&dates=8B949E&excludeDaysLabel=8B949E" alt="GitHub Streak" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bekokim&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bekokim&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bekokim&theme=github_dark" alt="Profile details" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bekokim&theme=github_dark" alt="Stats" />
+&nbsp;
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bekokim&theme=github_dark" alt="Most commit language" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bekokim&theme=github_dark" alt="Repos per language" />
+&nbsp;
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bekokim&theme=github_dark&utcOffset=6" alt="Productive time" />
 
 </div>
--->
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          LET'S CONNECT                              -->
