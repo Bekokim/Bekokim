@@ -4,13 +4,13 @@
 <!--                          HEADER BANNER                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=230&section=header&text=Bekzat%20Ergeshov&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20PostgreSQL&descAlignY=56&descSize=18"/>
+<img width="100%" src="assets/banner.svg" alt="Bekzat Ergeshov — Backend Developer | Python · Django · PostgreSQL" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        TYPING ANIMATION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=900&color=00FF41&center=true&vCenter=true&width=780&height=60&lines=%24+whoami+%E2%86%92+Bekzat+Ergeshov+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django+%F0%9F%90%8D;Applied+Math+%26+CS+student+%40+OshSU+%F0%9F%8E%93;Open+Source+Advocate+%E2%80%94+all+my+code+is+public+%F0%9F%94%93;Next+stop%3A+Data+Science+%F0%9F%93%8A;Based+in+Osh%2C+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC+%7C+Remote+Ready+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=23&pause=900&color=00FF41&center=true&vCenter=true&width=780&height=60&lines=%24+whoami+%E2%86%92+Bekzat+Ergeshov;Backend+Developer+%7C+Python+%26+Django;Applied+Math+%26+CS+student+%40+OshSU;Open+Source+Advocate+%E2%80%94+all+my+code+is+public;Next+stop%3A+Data+Science;Based+in+Osh%2C+Kyrgyzstan+%7C+Remote+Ready)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,8 +22,8 @@
 
 <br/><br/>
 
-[![Open To Work](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO-INTERNSHIP-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41)](mailto:bekotemirov0@gmail.com)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D%20OSH-KYRGYZSTAN-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)](https://maps.google.com/?q=Osh,Kyrgyzstan)
+[![Open To Work](https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41)](mailto:bekotemirov0@gmail.com)
+[![Location](https://img.shields.io/badge/OSH-KYRGYZSTAN-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)](https://maps.google.com/?q=Osh,Kyrgyzstan)
 
 <br/>
 
@@ -49,12 +49,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      PAC-MAN CONTRIBUTION GRAPH                     -->
+<!--                      TETRIS CONTRIBUTION GRAPH                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🧱 Tetris on my commits / Тетрис на моих коммитах
+### ![Tetris on my commits / Тетрис на моих коммитах](assets/headings/tetris-on-my-commits.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/tetris-contribution-graph-dark.svg" />
@@ -70,7 +70,7 @@
 <!--                             ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 💻 About Me / Обо мне
+## ![About Me / Обо мне](assets/headings/about-me.svg)
 
 <table>
 <tr>
@@ -78,13 +78,13 @@
 
 ```python
 class BekzatErgeshov:
-    """Backend developer from Osh, Kyrgyzstan 🇰🇬"""
+    """Backend developer from Osh, Kyrgyzstan"""
 
     def __init__(self):
         self.full_name  = "Ergeshov Bekzat Askatovich"
         self.username   = "Bekokim"
         self.born       = "2006-11-05"
-        self.location   = "Osh, Kyrgyzstan 🇰🇬 (UTC+6)"
+        self.location   = "Osh, Kyrgyzstan (UTC+6)"
         self.role       = "Backend Developer"
         self.education  = ["OshSU — Applied Math & CS (2028)",
                            "IT Academy Geeks — Backend Dev (2026)"]
@@ -94,13 +94,13 @@ class BekzatErgeshov:
                            "English": "A2–B1"}
         self.stack      = ["Python", "Django", "PostgreSQL",
                            "Redis", "Docker", "React"]
-        self.learning   = "Data Science 📊"
+        self.learning   = "Data Science"
         self.open_source = True   # every project I build is public
-        self.looking_for = "Internship 💼"
+        self.looking_for = "Internship"
 
     def say_hi(self):
         print("Thanks for stopping by! Спасибо, что заглянул!")
-        print("Let's build something real together 🚀")
+        print("Let's build something real together")
 
 
 me = BekzatErgeshov()
@@ -118,21 +118,21 @@ me.say_hi()
 
 <div align="center">
 
-## ⚡ Quick Facts / Коротко о главном
+## ![Quick Facts / Коротко о главном](assets/headings/quick-facts.svg)
 
 | | |
 |:---|:---|
-| 🎓 **Education / Учёба** | OshSU — Applied Math & CS `2028` · IT Academy Geeks — Backend `2026` |
-| 💼 **Experience / Опыт** | Backend Intern @ Geeks Pro — 3 months |
-| 🏆 **Awards / Награды** | 🥇 1st place OshSU MFTIT Informatics · 🥈 2nd place StudEXPO 2026 |
-| 🔭 **Currently / Сейчас** | Building backend services with Django & PostgreSQL |
-| 🌱 **Learning / Изучаю** | Data Science · ML · Pandas · NumPy |
-| 💬 **Ask me about** | Python · Django · aiogram · REST API · PostgreSQL |
-| 🔓 **Open Source** | All my projects are public — I believe in open source |
-| 🖥️ **Setup** | VS Code · PyCharm · Vim · Antigravity IDE · Windows + Arch Linux |
-| 🤖 **AI tools** | Claude Code · Codex · Kimi |
-| 📫 **Email** | bekotemirov0@gmail.com |
-| 🟢 **Status** | Open to internship · Remote-ready 🌍 |
+| **Education / Учёба** | OshSU — Applied Math & CS `2028` · IT Academy Geeks — Backend `2026` |
+| **Experience / Опыт** | Backend Intern @ Geeks Pro — 3 months |
+| **Awards / Награды** | 1st place OshSU MFTIT Informatics · 2nd place StudEXPO 2026 |
+| **Currently / Сейчас** | Building backend services with Django & PostgreSQL |
+| **Learning / Изучаю** | Data Science · ML · Pandas · NumPy |
+| **Ask me about** | Python · Django · aiogram · REST API · PostgreSQL |
+| **Open Source** | All my projects are public — I believe in open source |
+| **Setup** | VS Code · PyCharm · Vim · Antigravity IDE · Windows + Arch Linux |
+| **AI tools** | Claude Code · Codex · Kimi |
+| **Email** | bekotemirov0@gmail.com |
+| **Status** | Open to internship · Remote-ready |
 
 </div>
 
@@ -144,17 +144,17 @@ me.say_hi()
 
 <div align="center">
 
-## 🛠️ Tech Stack / Технологии
+## ![Tech Stack / Технологии](assets/headings/tech-stack.svg)
 
 <br/>
 
-### 👨‍💻 Languages / Языки
+### ![Languages / Языки](assets/headings/languages.svg)
 
 <img src="https://skillicons.dev/icons?i=python,js,cs,cpp,html,css&theme=dark&perline=6" />
 
 <br/><br/>
 
-### ⚙️ Frameworks & Libraries / Фреймворки
+### ![Frameworks & Libraries / Фреймворки](assets/headings/frameworks-libraries.svg)
 
 <img src="https://skillicons.dev/icons?i=django,react&theme=dark&perline=6" />
 &nbsp;
@@ -162,13 +162,13 @@ me.say_hi()
 
 <br/><br/>
 
-### 🗄️ Databases / Базы данных
+### ![Databases / Базы данных](assets/headings/databases.svg)
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,supabase&theme=dark&perline=6" />
 
 <br/><br/>
 
-### 🧰 Tools & DevOps / Инструменты
+### ![Tools & DevOps / Инструменты](assets/headings/tools-devops.svg)
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vercel,vscode,pycharm,vim,bash&theme=dark&perline=10" />
 
@@ -178,41 +178,41 @@ me.say_hi()
 
 <div align="center">
 
-### 📊 Skill Levels / Уровень навыков
+### ![Skill Levels / Уровень навыков](assets/headings/skill-levels.svg)
 
 | Skill | Level | Progress |
 |:---|:---:|:---|
-| 🐍 **Python** | Advanced | `█████████████████░░░` **85%** |
-| 🎨 **HTML / CSS** | Advanced | `████████████████░░░░` **80%** |
-| 🟨 **JavaScript** | Advanced | `███████████████░░░░░` **75%** |
-| 🌐 **Django** | Advanced | `███████████████░░░░░` **75%** |
-| 🔀 **Git** | Advanced | `███████████████░░░░░` **75%** |
-| 🗃️ **SQLite** | Intermediate | `██████████████░░░░░░` **70%** |
-| 🐘 **PostgreSQL** | Intermediate | `████████████░░░░░░░░` **60%** |
-| 🔴 **Redis** | Intermediate | `████████████░░░░░░░░` **60%** |
-| 🤖 **aiogram** | Intermediate | `████████████░░░░░░░░` **60%** |
-| ⚛️ **React** | Intermediate | `████████████░░░░░░░░` **60%** |
-| 🟦 **C#** | Basic | `██████████░░░░░░░░░░` **50%** |
-| ➕ **C++** | Basic | `██████████░░░░░░░░░░` **50%** |
-| 🐧 **Linux** | Basic | `████████░░░░░░░░░░░░` **40%** |
-| 🐳 **Docker** | Basic | `████████░░░░░░░░░░░░` **40%** |
+| **Python** | Advanced | `█████████████████░░░` **85%** |
+| **HTML / CSS** | Advanced | `████████████████░░░░` **80%** |
+| **JavaScript** | Advanced | `███████████████░░░░░` **75%** |
+| **Django** | Advanced | `███████████████░░░░░` **75%** |
+| **Git** | Advanced | `███████████████░░░░░` **75%** |
+| **SQLite** | Intermediate | `██████████████░░░░░░` **70%** |
+| **PostgreSQL** | Intermediate | `████████████░░░░░░░░` **60%** |
+| **Redis** | Intermediate | `████████████░░░░░░░░` **60%** |
+| **aiogram** | Intermediate | `████████████░░░░░░░░` **60%** |
+| **React** | Intermediate | `████████████░░░░░░░░` **60%** |
+| **C#** | Basic | `██████████░░░░░░░░░░` **50%** |
+| **C++** | Basic | `██████████░░░░░░░░░░` **50%** |
+| **Linux** | Basic | `████████░░░░░░░░░░░░` **40%** |
+| **Docker** | Basic | `████████░░░░░░░░░░░░` **40%** |
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      SNAKE CONTRIBUTION GRAPH                       -->
+<!--                      PAC-MAN CONTRIBUTION GRAPH                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🐍 Snake eats my commits / Змейка ест мои коммиты
+### ![Pac-Man eats my commits / Pac-Man ест мои коммиты](assets/headings/pac-man-eats-my-commits.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/github-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Bekokim/Bekokim/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bekokim/Bekokim/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Bekokim/Bekokim/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 </div>
@@ -223,21 +223,21 @@ me.say_hi()
 <!--                             PROJECTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Projects / Проекты
+## ![Projects / Проекты](assets/headings/projects.svg)
 
 <br/>
 
-### 🔷 AO Studio &nbsp; `Python` `Django` `PostgreSQL` `Redis` `JavaScript`
+### ![AO Studio](assets/headings/ao-studio.svg) &nbsp; `Python` `Django` `PostgreSQL` `Redis` `JavaScript`
 
 > **EN** — My flagship project: a complete, deployed web platform built with Django on the backend, PostgreSQL for storage and Redis for caching and background tasks. Fully finished and live in production.
 >
 > **RU** — Мой главный проект: полноценная веб-платформа на Django, с PostgreSQL в качестве базы и Redis для кеша и фоновых задач. Полностью завершён и задеплоен.
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20DEMO-ao--studio--main.vercel.app-00FF41?style=for-the-badge&labelColor=0D1117)](https://ao-studio-main.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-ao--studio--main.vercel.app-00FF41?style=for-the-badge&labelColor=0D1117)](https://ao-studio-main.vercel.app/)
 
 <br/>
 
-### 🔶 Next Up &nbsp; `Django` `PostgreSQL` `React` — *in planning*
+### ![Next Up](assets/headings/next-up.svg) &nbsp; `Django` `PostgreSQL` `React` — *in planning*
 
 > **EN** — A streaming catalogue for films, series and anime in the spirit of Anwap and Jut.su: search, filtering by genre and year, watchlists and a clean player page.
 >
@@ -245,8 +245,8 @@ me.say_hi()
 
 <br/>
 
-> 💡 **All my repositories are open source** — feel free to read, fork and learn from the code.
-> 💡 **Все мои репозитории открыты** — читай, форкай и учись на коде.
+> **All my repositories are open source** — feel free to read, fork and learn from the code.
+> **Все мои репозитории открыты** — читай, форкай и учись на коде.
 
 ---
 
@@ -254,7 +254,7 @@ me.say_hi()
 <!--                      EDUCATION & EXPERIENCE                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🎓 Education / Образование
+## ![Education / Образование](assets/headings/education.svg)
 
 **Osh State University** — Applied Mathematics & Computer Science
 `2024 — 2028` · Osh, Kyrgyzstan
@@ -266,20 +266,20 @@ me.say_hi()
 
 <br/>
 
-## 💼 Experience / Опыт
+## ![Experience / Опыт](assets/headings/experience.svg)
 
 **Backend Developer Intern** — Geeks Pro
 `3 months` · Worked on backend services in a real team environment.
 
 <br/>
 
-## 🏆 Achievements / Достижения
+## ![Achievements / Достижения](assets/headings/achievements.svg)
 
 | Award | Event |
 |:---|:---|
-| 🥇 **1st place** | Informatics Olympiad — OshSU, MFTIT Institute |
-| 🥈 **2nd place** | International Programming Olympiad — StudEXPO 2026 |
-| 📜 **Certificate** | Backend Developer course — IT Academy Geeks |
+| **1st place** | Informatics Olympiad — OshSU, MFTIT Institute |
+| **2nd place** | International Programming Olympiad — StudEXPO 2026 |
+| **Certificate** | Backend Developer course — IT Academy Geeks |
 
 ---
 
@@ -289,7 +289,7 @@ me.say_hi()
 
 <div align="center">
 
-## 📈 GitHub Stats / Статистика
+## ![GitHub Stats / Статистика](assets/headings/github-stats.svg)
 
 <br/>
 
@@ -321,22 +321,22 @@ me.say_hi()
 
 <div align="center">
 
-## 🎯 Beyond Code / Помимо кода
+## ![Beyond Code / Помимо кода](assets/headings/beyond-code.svg)
 
 <br/>
 
 | | |
 |:---|:---|
-| 🎬 **Films & Series / Кино** | Serious cinephile — movies, series, K-dramas, anime. Picking one favourite is impossible |
-| 📖 **Manga & Audiobooks / Манга** | I read manga and listen to audiobooks rather than paper ones |
-| 🥊 **Boxing / Бокс** | Trained boxing, love combat sports in general — still training today |
-| 🎧 **Music / Музыка** | Proper music junkie: Kyrgyz (modern & classic), Russian, Kazakh, a bit of English |
-| 🎙️ **Podcasts / Подкасты** | There is always something playing in the background |
-| 😄 **Stand-up / Юмор** | Big stand-up fan — and I tell my own jokes from everyday life |
-| 🍳 **Cooking / Готовка** | I cook well, and I like feeding people |
-| 🗣️ **People / Общение** | Easy to talk to — I genuinely enjoy meeting new people |
-| 🧩 **Competitive Programming** | Still solving problems. It is hard, but I am not quitting |
-| 😴 **Sleep / Сон** | An underrated hobby. I am good at it |
+| **Films & Series / Кино** | Serious cinephile — movies, series, K-dramas, anime. Picking one favourite is impossible |
+| **Manga & Audiobooks / Манга** | I read manga and listen to audiobooks rather than paper ones |
+| **Boxing / Бокс** | Trained boxing, love combat sports in general — still training today |
+| **Music / Музыка** | Proper music junkie: Kyrgyz (modern & classic), Russian, Kazakh, a bit of English |
+| **Podcasts / Подкасты** | There is always something playing in the background |
+| **Stand-up / Юмор** | Big stand-up fan — and I tell my own jokes from everyday life |
+| **Cooking / Готовка** | I cook well, and I like feeding people |
+| **People / Общение** | Easy to talk to — I genuinely enjoy meeting new people |
+| **Competitive Programming** | Still solving problems. It is hard, but I am not quitting |
+| **Sleep / Сон** | An underrated hobby. I am good at it |
 
 <br/>
 
@@ -350,9 +350,9 @@ me.say_hi()
 
 <div align="center">
 
-## 🤝 Let's Connect / Связаться со мной
+## ![Let's Connect / Связаться со мной](assets/headings/let-s-connect.svg)
 
-### 💼 Available for: Internship · Part-time · Freelance · Remote 🌍
+### ![Available for: Internship · Part-time · Freelance · Remote](assets/headings/available-for-internship-part-time-freelance-remote.svg)
 
 <br/>
 
@@ -379,9 +379,9 @@ $ echo "Open to internships, open source and interesting problems."
 
 <br/>
 
-### 🌑 *"The night is darkest just before the dawn."*
+### !["The night is darkest just before the dawn."](assets/headings/closing-quote-en.svg)
 
-### 🌑 *«Ночь темнее всего прямо перед рассветом»*
+### ![«Ночь темнее всего прямо перед рассветом»](assets/headings/closing-quote-ru.svg)
 
 <br/>
 
